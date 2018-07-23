@@ -1,0 +1,4 @@
+*.asv
+*_PRE.mat
+OUTPUT/
+OUTPUT_PARAMETERS/
