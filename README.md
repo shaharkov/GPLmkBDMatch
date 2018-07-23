@@ -11,7 +11,7 @@ This package includes two demo pipelines:
 - `demo_LmkMatching_versus_CPM.m` -- a complete pipeline that includes comparison to Continuous Procrustes inter-surface Maps (CPM) as well as the alternative registration methods discussed in the paper (see Table 1).
 
 The demo output includes the following figures, visualizing the various steps of the algorithm:
-![](./.images/subplot_1.png?raw=true)
+![Example Figures](./.images/figures.png?raw=true)
 
 
 
