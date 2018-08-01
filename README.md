@@ -1,7 +1,7 @@
 Bounded distortion matching of Gaussian Process Landmarks
 ====
 
-A Matlab implementation accompanying the paper ["Gaussian Process Landmarking on Manifolds"](https://arxiv.org/abs/1802.03479).
+A Matlab implementation accompanying the papers ["Gaussian Process Landmarking for Three-Dimensional Geometric Morphometrics"](https://arxiv.org/abs/1807.11887) and ["Gaussian Process Landmarking on Manifolds"](https://arxiv.org/abs/1802.03479).
 
 ----
 The functions `code/wrapperLmkMatch.m` and `code/matchSurfaceLmksBD.m` implement the matching algorithm described in section 6.2 of the paper.
