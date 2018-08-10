@@ -19,7 +19,7 @@ The demo output includes the following figures, visualizing the various steps of
 
 
 **Compatibility and dependencies:**
-- Developed and tested with Matlab 2017b on a Windows (x64) Machine.
+- Developed and tested with Matlab 2018a on a Windows (x64) Machine.
 - Included with the code are (modified versions) of
 	- [Feature Matching with Bounded Distortion](http://www.wisdom.weizmann.ac.il/~ylipman/bd_feature_match/BDFeatureMatch.zip)
 	- [Accelerated Quadratic Proxy for Geometric Optimization](https://services.math.duke.edu/~shaharko//AcceleratedQuadraticProxy.html)
